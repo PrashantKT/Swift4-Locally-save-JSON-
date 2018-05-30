@@ -5,9 +5,11 @@ Classes Helpful to save JSON in document directory with generic swift 4 solution
 **How to use it**
 -----------------------------
 
-Drag and drop **OfflineManager.swift** and two FileManager Extension as well as String Extension 
+Drag and drop **OfflineManager.swift** and **Helper.swift** and you DONE !!
 
-And create your own cases  `WSCacheKeys`
+
+
+And create your own cases  `WSCacheKeys` as per your response 
 
 To Save
 
